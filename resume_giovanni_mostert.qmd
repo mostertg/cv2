@@ -1,0 +1,554 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf GIOVANNI MOSTERT}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}+264 81 2000 184 ∙ \href{mailto://giovanni.mostert@gmail.com}{giovanni.mostert@gmail.com}
+\end{center}
+\begin{center}
+  LinkedIn: \href{https://www.linkedin.com/in/giovannimostert}{giovannimostert}
+\end{center}
+\vspace{15pt}
+
+<!-- INTRO -->
+\begin{large}{\bf ABOUT ME}
+  \vspace{3pt}
+  \hrule
+\end{large}
+I am a Data Engineer with over 12 years experience in the telecommunications industry, specializing in Big Data acquisition, processing and analysis. 
+I am adept at building models and data pipelines for analysis and reporting of Big Data. I am also experienced in Artificial Intelligence (AI) and Machine Learning (ML) algorithms that add value to raw data. My focus is on enabling effective decision making by assembling data via structured patterns and models and creating compelling visualizations for data storytelling. I am a problem solver and have a team‑oriented attitude.
+
+\vspace{5pt}
+
+<!-- BIO -->
+\begin{large}{\bf PERSONAL DETAILS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+**Nationality** - Namibian Citizen \newline
+**Ethnicity** - Baster \newline
+**Date of Birth** - 23 February 1984 \newline
+**Namibian ID** - 840223 1003 0 \newline
+**Drivers License** - Namibia Drivers License Code B \newline
+**Languages** - English *fully proficient*, Afrikaans *fully proficient* \newline
+**Marital Status** - Married \newline
+**Health Status** - Excellent health \newline
+**Disabilites** - None 
+
+\vspace{5pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Namibia University of Science \& Technology}\end{flushleft}
+    \begin{flushright}Windhoek, Namibia\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Certificate in Big Data Technologies\end{flushleft}
+    \begin{flushright}2020\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{0.05cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Namibia University of Science \& Technology}\end{flushleft}
+    \begin{flushright}Windhoek, Namibia\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Bachelor of Informatics\end{flushleft}
+    \begin{flushright}2018\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{1.5pt}
+
+<!-- EDUCATION: 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf University of South Africa}\end{flushleft}
+    \begin{flushright}Distance Learning\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Bachelor of Arts: Psychology \& Sociology\end{flushleft}
+    \begin{flushright}2007\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{1.5pt}
+
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+<!-- \vspace{-0.16cm} -->
+**Languages and Tools** - *proficient:* SQL, Python, R, Excel, PowerBI, PostgeSQL, Linux/UNIX *intermediate:* Spark, Hadoop, Tableau, SQL Server\newline
+**Focus Areas** - Data analysis \& visualization, Big Data Systems with Spark & Hadoop, Programming in Python, Big Data pipelines, ETL \& ELT processes, Online Analytical Processing (OLAP) database management, dashboard creation \& maintenance, forecasting \& timeseries analysis, development of pricing models, Linear Regression, Classification, Bayesian Machine Learning models
+
+\vspace{5pt}
+
+<!-- EXPERIENCE : 1ST BULLET-->
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+  \begin{flushleft}{\bf \href{https://www.mtc.com.na/}{MTC Namibia}}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Analytics \& BI Developer}\end{flushleft}
+    \begin{flushright}Aug 2023-Present\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Reporting for business goals such as market analysis, services consumption trends & pricing models
+* Analysis of Big Data data sets using SQL, Python, R and Analytical databases.
+* Develop & maintain Extract Transform & Load (ETL) pipelines for data availability.
+* Data acquisition, data manipulation & modelling for data exploration & visualization.
+* Design & implementation of data pipelines to facilitate reporting.
+* Reporting via dynamic dashboards with PowerBI, Excel and R to display Key Performance Indictors.
+
+\vspace{5pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.mtc.com.na/}{MTC Namibia}}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Core Network Engineer}\end{flushleft}
+    \begin{flushright}May 2015-Present\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Develop models to analyze & report on product pricing scenarios.
+* Dashboard & report creation to display Key Performance Indicators.
+* System maintenance and administration of production SQL databases and data pipelines.
+* Combat fraudulent activities using Fraud Detection System custom developed in Python.
+
+\vspace{5pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.mtc.com.na/}{MTC Namibia}}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Statistics \& Data Administrator}\end{flushleft}
+    \begin{flushright}Oct 2011-May 2015\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Executive KPI reporting & dashboards.
+* Analysis & forecasts of network performance.
+* Documentation, data management and archival of data and reports.
+
+\vspace{5pt}
+
+<!-- EXPERIENCE : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://surveywarehouse.com.na/}{Survey Warehouse}}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Senior Researcher, Media Monitoring}\end{flushleft}
+    \begin{flushright}2009-Oct 2011\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Statistical mining and analysis of collected media monitoring data to yield customer insight reports.
+* Analysis, forecasts and optimization of brand management based on sentiment analysis.
+* SQL database administration and maintenance.
+
+\vspace{5pt}
+
+<!-- EXPERIENCE : 5TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://surveywarehouse.com.na/}{Survey Warehouse}}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Junior Researcher, Media Monitoring}\end{flushleft}
+    \begin{flushright}2008-2009\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Analysis of media monitoring data using SPSS, Excel as well as SQL.
+* Pre-processing, cleaning data for analysis.
+* SQL database administration and maintenance.
+
+\vspace{5pt}
+
+<!-- EXPERIENCE : 6TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Media Tenor Namibia}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Media Analyst}\end{flushleft}
+    \begin{flushright}2007-2008\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Data entry and capture onto SQL database.
+* Limited SQL database administration and maintenance.
+
+\vspace{5pt}
+
+<!-- PROJECTS : 1ST BULLET -->
+\setlength{\columnsep}{-2.5cm}
+
+\begin{large}
+{\bf NOTABLE PROJECTS}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{IMSI Verifcation Application Programming Interface}\end{flushleft}
+    \begin{flushright}November 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Spearheaded the architecture of a SIM Verification API implemented over USSD mobile channel. A HTTP API-call is performed in-session during the USSD transaction to verify that a customer is not using a cloned SIM card. The system is used by banks to combat SIM cloning fraud. 
+
+\vspace{5pt}
+
+<!-- PROJECTS : 2nd BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{USSD Pricing Model with Linear Regression Forecasting}\end{flushleft}
+    \begin{flushright}October 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Developed a comprehensive pricing model for USSD services that allows the organization to forecast and predict pricing changes for USSD services. The analysis also included sensitivity analysis to factor in customer usage variability. SQL and PowerBI was used the analysis and reporting.
+
+\vspace{5pt}
+
+<!-- PROJECTS : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Fraud Detection System}\end{flushleft}
+    \begin{flushright}2018\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Architected, developed and implemented a Fraud Detection System for incoming calls on the cellular network. The system scans call records generated by network equipment to heuristically generate alert notifications to technical teams informing of possible fraud calls. The solution was implemented in SQL and Python. This system saved approx. N\$1.4 million for my organization.
+
+\vspace{5pt}
+
+<!-- PROJECTS : 4th BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Automation of Marketing Reports in Python}\end{flushleft}
+    \begin{flushright}2016\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Automated various product-focused Marketing reports in Python. Python was used for the analysis, while Linux scripting was used to automate file transfer and archiving. This automation reduced reporting time from 4 hours to 10 minutes.
+
+\vspace{5pt}
+
+<!-- HONOURs : 1ST BULLET -->
+\setlength{\columnsep}{-15.5cm}
+
+\begin{large}
+{\bf HONOURS \& AWARDS}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{$1^{st}$ Place Winner, COVID‑19 Tweet Sentiment Analysis with Web App}
+      \textit{NUST/DARA Data Science 2022 Hackathon}
+      \end{flushleft}
+    \begin{flushright}2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.1cm}
+\end{large}
+
+<!-- \vspace{5pt} -->
+
+<!-- HONOURs : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{Count on Me Certificate of Excellence for Fraud Detection System}
+      \textit{MTC Namibia}
+    \end{flushleft}
+    \begin{flushright}2018\end{flushright}
+  \end{multicols}
+  \vspace{-0.1cm}
+\end{large}
+
+<!-- \vspace{5pt} -->
+
+<!-- HONOURs : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{Chief Technology Officer’s Award for Outstanding Service}
+      \textit{MTC Namibia}
+    \end{flushleft}
+    \begin{flushright}2013\end{flushright}
+  \end{multicols}
+  \vspace{-0.3cm}
+\end{large}
+
+\vspace{5pt}
+
+<!-- HONOURs : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{Best $1^{st}$ Year Student (Overall)}
+      \textit{Namibia University of Science \& Technology}
+    \end{flushleft}
+    \begin{flushright}2015\end{flushright}
+  \end{multicols}
+  \vspace{-0.3cm}
+\end{large}
+
+\vspace{5pt}
+
+<!-- HONOURs : 5TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{Best $1^{st}$ Year Student (Dept. of Informatics) }
+      \textit{Namibia University of Science \& Technology}
+    \end{flushleft}
+    \begin{flushright}2015\end{flushright}
+  \end{multicols}
+  \vspace{-0.3cm}
+\end{large}
+
+\vspace{5pt}
+\newpage
+
+<!-- CERTIFICATION : 1ST BULLET -->
+\setlength{\columnsep}{-15.5cm}
+
+\begin{large}
+{\bf CERTIFICATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{NAMS/ISO/IEC 27001:2021 Development \& Implementation of Information Security Framework}
+      \textit{Namibia Standards Institute}
+    \end{flushleft}
+    \begin{flushright}2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+<!-- CERTIFICATION : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{Dialogic BorderNet Session Border Controller Certified}
+      \textit{Dialogic}
+    \end{flushleft}
+    \begin{flushright}2020\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+<!-- CERTIFICATION : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{CS Core Telecommunications Advanced}
+      \textit{Huawei}
+    \end{flushleft}
+    \begin{flushright}Aug 2017\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+<!-- CERTIFICATION : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{CS Core Telecommunications Fundamentals}
+      \textit{Huawei}
+    \end{flushleft}
+    \begin{flushright}May 2017\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+<!-- CERTIFICATION : 5TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{A+ Certification}
+      \textit{CompTIA}
+    \end{flushleft}
+    \begin{flushright}2006\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+\vspace{5pt}
+
+<!-- COMMITEES : 1ST BULLET -->
+\setlength{\columnsep}{-15.5cm}
+
+\begin{large}
+{\bf COMMITTEES, MEMBERSHIPS \& OTHER ACTIVITIES}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{Data Governance Project Team Member}
+      \textit{TM Forum}
+      \end{flushleft}
+    \begin{flushright}2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+<!-- COMMITEES : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{Fire Marshall Rep.}
+      \textit{MTC Health, Safety \& Environment Committee}
+      \end{flushleft}
+    \begin{flushright}2022-Current\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+<!-- COMMITEES : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \textbf{Health \& Safety Rep.}
+      \textit{MTC Health, Safety \& Environment Committee}
+      \end{flushleft}
+    \begin{flushright}2013-2015\end{flushright}
+  \end{multicols}
+  \vspace{-0.10cm}
+\end{large}
+
+\vspace{5pt}
+<!-- \newpage -->
+
+<!-- REFERENCES : 1ST BULLET -->
+\begin{large}
+{\bf REFERENCES}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Gene de Klerk}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textsc{Coordinator: Value Added Services}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{MTC Namibia}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\href{mailto://gdeklerk@mtc.com.na}{gdeklerk@mtc.com.na}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{+264 81 100 2061}\end{flushleft}
+  \end{multicols}
+\end{large}
+
+\vspace{5pt}
+
+<!-- REFERENCES : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Cornelius Louw}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textsc{Manager: Network Management \& Technical Quality}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{MTC Namibia}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\href{mailto://CLouw2@mtc.com.na}{CLouw2@mtc.com.na}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{+264 81 100 2055}\end{flushleft}
+  \end{multicols}
+\end{large}
+
+\vspace{5pt}
+
+<!-- REFERENCES : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Natasja Beyleveld}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textsc{Managing Director}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{NaMedia Namibia Media Monitoring}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\href{mailto://natasja.dewet@gmail.com}{natasja.dewet@gmail.com}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{+264 81 319 5819}\end{flushleft}
+  \end{multicols}
+\end{large}
