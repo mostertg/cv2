@@ -55,7 +55,7 @@ I am adept at building models and data pipelines for analysis and reporting of B
 **Languages** - English *fully proficient*, Afrikaans *fully proficient* \newline
 **Marital Status** - Married \newline
 **Health Status** - Excellent health \newline
-**Disabilites** - None 
+**Disabilities** - None 
 
 \vspace{5pt}
 
@@ -113,8 +113,8 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \hrule
 \end{large}
 <!-- \vspace{-0.16cm} -->
-**Languages and Tools** - *proficient:* SQL, Python, R, Excel, PowerBI, PostgeSQL, Linux/UNIX *intermediate:* Spark, Hadoop, Tableau, SQL Server\newline
-**Focus Areas** - Data analysis \& visualization, Big Data Systems with Spark & Hadoop, Programming in Python, Big Data pipelines, ETL \& ELT processes, Online Analytical Processing (OLAP) database management, dashboard creation \& maintenance, forecasting \& timeseries analysis, development of pricing models, Linear Regression, Classification, Bayesian Machine Learning models
+**Languages and Tools** - *proficient:* SQL, Python, R, Excel, PowerBI, PostgreSQL, Linux/UNIX *intermediate:* Spark, Hadoop, Tableau, SQL Server\newline
+**Focus Areas** - Data analysis \& visualization, Big Data Systems with Spark & Hadoop, Programming in Python, Big Data pipelines, ETL \& ELT processes, Online Analytical Processing (OLAP) database management, dashboard creation \& maintenance, forecasting \& time-series analysis, development of pricing models, Linear Regression, Classification, Bayesian Machine Learning models
 
 \vspace{5pt}
 
@@ -138,7 +138,7 @@ I am adept at building models and data pipelines for analysis and reporting of B
 * Develop & maintain Extract Transform & Load (ETL) pipelines for data availability.
 * Data acquisition, data manipulation & modelling for data exploration & visualization.
 * Design & implementation of data pipelines to facilitate reporting.
-* Reporting via dynamic dashboards with PowerBI, Excel and R to display Key Performance Indictors.
+* Reporting via dynamic dashboards with PowerBI, Excel and R to display Key Performance Indicators.
 
 \vspace{5pt}
 
