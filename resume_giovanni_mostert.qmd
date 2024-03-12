@@ -25,7 +25,7 @@ format:
 \begin{huge}\begin{center}{\bf GIOVANNI MOSTERT}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}+264 81 2000 184 ∙ \href{mailto://giovanni.mostert@gmail.com}{giovanni.mostert@gmail.com}
+\begin{center}+264 81 2000 184 ∙ \href{mailto:giovanni.mostert@gmail.com}{giovanni.mostert@gmail.com}
 \end{center}
 \begin{center}
   LinkedIn: \href{https://www.linkedin.com/in/giovannimostert}{giovannimostert}
@@ -38,7 +38,10 @@ format:
   \hrule
 \end{large}
 I am a Data Engineer with over 12 years experience in the telecommunications industry, specializing in Big Data acquisition, processing and analysis. 
-I am adept at building models and data pipelines for analysis and reporting of Big Data. I am also experienced in Artificial Intelligence (AI) and Machine Learning (ML) algorithms that add value to raw data. My focus is on enabling effective decision making by assembling data via structured patterns and models and creating compelling visualizations for data storytelling. I am a problem solver and have a team‑oriented attitude.
+I am adept at building models and data pipelines for Big Data Analytics. I am also experienced in Artificial Intelligence (AI) and Machine Learning (ML) 
+algorithms that make sense of large volumes of date, and add value to raw data. My focus is on enabling effective decision making by assembling data via 
+structured patterns and models, creating compelling visualizations for data storytelling and furthering business objectives by leveraging powerful data processing
+abilities. I am a creative problem solver and have a team‑oriented attitude. I value honesty and integrity and welcome positive criticism.
 
 \vspace{5pt}
 
@@ -113,8 +116,8 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \hrule
 \end{large}
 <!-- \vspace{-0.16cm} -->
-**Languages and Tools** - *proficient:* SQL, Python, R, Excel, PowerBI, PostgreSQL, Linux/UNIX *intermediate:* Spark, Hadoop, Tableau, SQL Server\newline
-**Focus Areas** - Data analysis \& visualization, Big Data Systems with Spark & Hadoop, Programming in Python, Big Data pipelines, ETL \& ELT processes, Online Analytical Processing (OLAP) database management, dashboard creation \& maintenance, forecasting \& time-series analysis, development of pricing models, Linear Regression, Classification, Bayesian Machine Learning models
+**Languages and Tools** - *advanced:* SQL, Python, R, PowerBI, PostgreSQL, Excel, Linux/UNIX *intermediate:* Spark, Hadoop, Tableau, SQL Server\newline
+**Focus Areas** - Data analysis \& visualization, Big Data Analytics with Spark & Hadoop, Programming in Python, Big Data pipelines, ETL \& ELT processes, Online Analytical Processing (OLAP) database management, data warehouse management, meta data management, dashboard creation \& maintenance, forecasting \& time-series analysis, development of pricing models, Regression analysis, Classification, Bayesian Machine Learning models.
 
 \vspace{5pt}
 
@@ -269,6 +272,19 @@ I am adept at building models and data pipelines for analysis and reporting of B
 <!-- PROJECTS : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
+    \begin{flushleft}\textit{COVID‑19 Tweet Sentiment Analysis with Web App}\end{flushleft}
+    \begin{flushright}2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* As part of a multi-disciplinary team, implemented a Sentiment Analysis machine learning model based on 40 million COVID-19 tweets to help inform public sentiment regarding governmental agencies health messaging on COVID-19 topics. Developed using Ensemble methods and corrected with Logistic Regression, the model achieved an accuracy of 79%. It was deployed using a web application 
+  that allowed users to enter a message, and adjust their messaging to a more positive sentiment score. This project won the $1^{st}$ Place prize at the 2022 DARA/NUST Hackathon.
+
+\vspace{5pt}
+
+<!-- PROJECTS : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
     \begin{flushleft}\textit{Fraud Detection System}\end{flushleft}
     \begin{flushright}2018\end{flushright}
   \end{multicols}
@@ -278,7 +294,7 @@ I am adept at building models and data pipelines for analysis and reporting of B
 
 \vspace{5pt}
 
-<!-- PROJECTS : 4th BULLET -->
+<!-- PROJECTS : 5TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Automation of Marketing Reports in Python}\end{flushleft}
@@ -363,7 +379,7 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \vspace{-0.2cm}
 \end{large}
 
-\newpage
+\vspace{7pt}
 
 <!-- CERTIFICATION : 1ST BULLET -->
 \setlength{\columnsep}{-15.5cm}
@@ -486,7 +502,7 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\href{mailto://gdeklerk@mtc.com.na}{gdeklerk@mtc.com.na}\end{flushleft}
+    \begin{flushleft}\href{mailto:gdeklerk@mtc.com.na}{gdeklerk@mtc.com.na}\end{flushleft}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -511,7 +527,7 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\href{mailto://CLouw2@mtc.com.na}{CLouw2@mtc.com.na}\end{flushleft}
+    \begin{flushleft}\href{mailto:CLouw2@mtc.com.na}{CLouw2@mtc.com.na}\end{flushleft}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -536,10 +552,35 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\href{mailto://natasja.dewet@gmail.com}{natasja.dewet@gmail.com}\end{flushleft}
+    \begin{flushleft}\href{mailto:natasja.dewet@gmail.com}{natasja.dewet@gmail.com}\end{flushleft}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}{+264 81 319 5819}\end{flushleft}
+  \end{multicols}
+\end{large}
+
+\vspace{5pt}
+
+<!-- REFERENCES : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Fideria Ndapopile}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textsc{Data Analytics \& BI Developer}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{MTC Namibia}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\href{mailto:FNdapopile@mtc.com.na}{FNdapopile@mtc.com.na}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{+264 81 100 2898}\end{flushleft}
   \end{multicols}
 \end{large}
