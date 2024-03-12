@@ -235,7 +235,7 @@ I am adept at building models and data pipelines for analysis and reporting of B
 * Data entry and capture onto SQL database.
 * Limited SQL database administration and maintenance.
 
-\vspace{5pt}
+\vspace{7pt}
 
 <!-- PROJECTS : 1ST BULLET -->
 \setlength{\columnsep}{-2.5cm}
@@ -299,12 +299,12 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{$1^{st}$ Place Winner, COVID‑19 Tweet Sentiment Analysis with Web App}
+      $1^{st}$ Place Winner, COVID‑19 Tweet Sentiment Analysis with Web App
       \textit{NUST/DARA Data Science 2022 Hackathon}
       \end{flushleft}
     \begin{flushright}2022\end{flushright}
   \end{multicols}
-  \vspace{-0.1cm}
+  \vspace{-0.04cm}
 \end{large}
 
 <!-- \vspace{5pt} -->
@@ -313,12 +313,12 @@ I am adept at building models and data pipelines for analysis and reporting of B
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{Count on Me Certificate of Excellence for Fraud Detection System}
+      Count on Me Certificate of Excellence for Fraud Detection System
       \textit{MTC Namibia}
     \end{flushleft}
     \begin{flushright}2018\end{flushright}
   \end{multicols}
-  \vspace{-0.1cm}
+  \vspace{-0.01cm}
 \end{large}
 
 <!-- \vspace{5pt} -->
@@ -327,12 +327,12 @@ I am adept at building models and data pipelines for analysis and reporting of B
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{Chief Technology Officer’s Award for Outstanding Service}
+      Chief Technology Officer’s Award for Outstanding Service
       \textit{MTC Namibia}
     \end{flushleft}
     \begin{flushright}2013\end{flushright}
   \end{multicols}
-  \vspace{-0.3cm}
+  \vspace{-0.2cm}
 \end{large}
 
 \vspace{5pt}
@@ -341,12 +341,12 @@ I am adept at building models and data pipelines for analysis and reporting of B
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{Best $1^{st}$ Year Student (Overall)}
+      Best $1^{st}$ Year Student (Overall)
       \textit{Namibia University of Science \& Technology}
     \end{flushleft}
     \begin{flushright}2015\end{flushright}
   \end{multicols}
-  \vspace{-0.3cm}
+  \vspace{-0.2cm}
 \end{large}
 
 \vspace{5pt}
@@ -355,15 +355,14 @@ I am adept at building models and data pipelines for analysis and reporting of B
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{Best $1^{st}$ Year Student (Dept. of Informatics) }
+      Best $1^{st}$ Year Student (Dept. of Informatics)
       \textit{Namibia University of Science \& Technology}
     \end{flushleft}
     \begin{flushright}2015\end{flushright}
   \end{multicols}
-  \vspace{-0.3cm}
+  \vspace{-0.2cm}
 \end{large}
 
-\vspace{5pt}
 \newpage
 
 <!-- CERTIFICATION : 1ST BULLET -->
@@ -375,63 +374,58 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{NAMS/ISO/IEC 27001:2021 Development \& Implementation of Information Security Framework}
+      NAMS/ISO/IEC 27001:2021 Development \& Implementation of Information Security Framework
       \textit{Namibia Standards Institute}
     \end{flushleft}
     \begin{flushright}2022\end{flushright}
   \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
 <!-- CERTIFICATION : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{Dialogic BorderNet Session Border Controller Certified}
-      \textit{Dialogic}
+      Dialogic BorderNet Session Border Controller Certified
+      \textit{Dialogic Corp.}
     \end{flushleft}
     \begin{flushright}2020\end{flushright}
   \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
 <!-- CERTIFICATION : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{CS Core Telecommunications Advanced}
+      CS Core Telecommunications Advanced
       \textit{Huawei}
     \end{flushleft}
     \begin{flushright}Aug 2017\end{flushright}
   \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
 <!-- CERTIFICATION : 4TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{CS Core Telecommunications Fundamentals}
+      CS Core Telecommunications Fundamentals
       \textit{Huawei}
     \end{flushleft}
     \begin{flushright}May 2017\end{flushright}
   \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
 <!-- CERTIFICATION : 5TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{A+ Certification}
+      A+ Certification
       \textit{CompTIA}
     \end{flushleft}
     \begin{flushright}2006\end{flushright}
   \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
-\vspace{5pt}
+\vspace{7pt}
 
 <!-- COMMITEES : 1ST BULLET -->
 \setlength{\columnsep}{-15.5cm}
@@ -442,40 +436,37 @@ I am adept at building models and data pipelines for analysis and reporting of B
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{Data Governance Project Team Member}
+      Data Governance Project Team Member
       \textit{TM Forum}
       \end{flushleft}
     \begin{flushright}2023\end{flushright}
   \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
 <!-- COMMITEES : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{Fire Marshall Rep.}
+      Fire Marshall Rep.
       \textit{MTC Health, Safety \& Environment Committee}
       \end{flushleft}
     \begin{flushright}2022-Current\end{flushright}
   \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
 <!-- COMMITEES : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      \textbf{Health \& Safety Rep.}
+      Health \& Safety Rep.
       \textit{MTC Health, Safety \& Environment Committee}
       \end{flushleft}
     \begin{flushright}2013-2015\end{flushright}
   \end{multicols}
-  \vspace{-0.10cm}
 \end{large}
 
-\vspace{5pt}
 <!-- \newpage -->
+\vspace{7pt}
 
 <!-- REFERENCES : 1ST BULLET -->
 \begin{large}
