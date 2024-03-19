@@ -1,5 +1,6 @@
 .DS_Store
 .Rproj.user
 *.Rproj
-*.pdf
+cv.pdf
+coverletter.pdf
 *.sh
