@@ -1,5 +1,6 @@
 name: Render Quarto
 on:
+  workflow_dispatch:
   push:
     branches:
       - main    # only changes on main will tragger a build.
@@ -7,6 +8,8 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
