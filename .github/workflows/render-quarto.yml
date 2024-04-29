@@ -1,0 +1,23 @@
+name: Render Quarto
+on:
+  push:
+    branches:
+      - main    # only changes on main will tragger a build.
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.4.551
+
+      - name: Render Quarto Resume
+        uses: quarto-dev/quarto-actions/render@v2
+        with:
+          to: pdf    # equivalent to `quarto render --to pdf`

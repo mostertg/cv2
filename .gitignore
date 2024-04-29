@@ -4,3 +4,5 @@
 cv.pdf
 coverletter.pdf
 *.sh
+*.tex
+coverletter.qmd
