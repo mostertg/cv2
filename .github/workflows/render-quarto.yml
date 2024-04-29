@@ -7,15 +7,17 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           version: 1.4.551
+          tinytex: true
 
       - name: Render Quarto Resume
         uses: quarto-dev/quarto-actions/render@v2
