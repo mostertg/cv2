@@ -1,0 +1,17 @@
+---
+title: "Giovanni Mostert Portfolio"
+format:
+  pdf:
+    geometry: 
+        - top=30mm
+        - left=20mm
+---
+
+## Who I Am
+
+- 12y veteran telecoms & big data
+- Python, R lang & SQL (DuckDB & Postgres)
+  ![Python](python-logo-only.svg)
+  ![R](R_logo.svg)
+  ![SQL](PostgreSQL_logo.3colors.svg)
+  ![DuckDB](DuckDB_Logo-horizontal.png)

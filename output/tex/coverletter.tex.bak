@@ -1,0 +1,40 @@
+% !TEX TS-program = xelatex
+\documentclass{article}
+\usepackage{graphicx}% http://ctan.org/pkg/graphicx
+\usepackage[a4paper, total={8in, 10in}]{geometry}
+\setlength{\parindent}{0pt}% Remove paragraph indent
+
+\begin{document}
+
+\hspace*{0.75\linewidth}
+\begin{minipage}{0.4\linewidth}
+\textbf{Giovanni Mostert} \par
+PO Box 27037 \par 
+Windhoek \par
+Namibia \par
+$+$264812000184 \par \medskip
+\today
+\end{minipage}
+\bigskip
+\bigskip
+
+\begin{minipage}{0.4\linewidth}
+Human Resources Department \par
+First National Bank Namibia \par
+Windhoek \par
+Namibia \par
+\end{minipage}
+\bigskip
+
+\textbf{RE: Vacancy for Data Engineer (position code)}\par \bigskip \bigskip
+
+Dear Sir/ Madam, \par \bigskip
+
+Hire me, it'll be worth your while. \par \bigskip
+
+Sincerely, \par \medskip
+
+\includegraphics[height=2\baselineskip]{assets/signature} \par
+Giovanni Mostert \par
+
+\end{document}
