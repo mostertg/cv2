@@ -1,8 +1,10 @@
 .DS_Store
 .Rproj.user
+.Rhistory
 *.Rproj
 cv.pdf
 coverletter.pdf
 *.sh
 *.tex
-coverletter.qmd
+*.aux
+*.log
