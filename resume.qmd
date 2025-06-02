@@ -28,9 +28,12 @@ format:
 \begin{center}+264 81 2000 184 ∙ \href{mailto:giovanni.mostert@gmail.com}{giovanni.mostert@gmail.com}
 \end{center}
 \begin{center}
+PO Box 27037, Windhoek
+\end{center}
+\begin{center}
   LinkedIn: \href{https://www.linkedin.com/in/giovannimostert}{giovannimostert}
 \end{center}
-\vspace{15pt}
+<!-- \vspace{3pt} -->
 
 <!-- INTRO -->
 \begin{large}{\bf ABOUT ME}
@@ -38,10 +41,11 @@ format:
   \hrule
 \end{large}
 I am a Data Engineer with over 12 years experience in the telecommunications industry, specializing in Big Data acquisition, processing and analysis. 
-I am adept at building models and data pipelines for Big Data Analytics. I am also experienced in Artificial Intelligence (AI) and Machine Learning (ML) 
-algorithms that make sense of large volumes of date, and add value to raw data. My focus is on enabling effective decision making by assembling data via 
-structured patterns and models, creating compelling visualizations for data storytelling and furthering business objectives by leveraging powerful data processing
-abilities. I am a creative problem solver and have a team‑oriented attitude. I value honesty and integrity and welcome positive criticism.
+I am adept at building models and ETL data pipelines for Big Data Analytics. 
+I am also experienced in Artificial Intelligence (AI) and Machine Learning (ML) algorithms that make sense of large volumes of data to add value. 
+My focus is on enabling effective decision making by assembling data via structured patterns and models, creating compelling visualizations for data storytelling and furthering business objectives by leveraging powerful data processing abilities. 
+I am a creative problem solver and have a team‑oriented attitude. 
+I value honesty and integrity and welcome positive criticism.
 
 \vspace{5pt}
 
@@ -117,7 +121,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 \end{large}
 <!-- \vspace{-0.16cm} -->
 **Languages and Tools** - *advanced:* SQL, Python, R, PowerBI, PostgreSQL, Excel, Linux/UNIX *intermediate:* Spark, Hadoop, Tableau, SQL Server\newline
-**Focus Areas** - Data analysis \& visualization, Big Data Analytics with Spark & Hadoop, Programming in Python, Big Data pipelines, ETL \& ELT processes, Online Analytical Processing (OLAP) database management, data warehouse management, meta data management, dashboard creation \& maintenance, forecasting \& time-series analysis, development of pricing models, Regression analysis, Classification, Bayesian Machine Learning models.
+**Focus Areas** - Data analysis \& visualization, Big Data Analytics with Apache Spark & Hadoop, programming in Python, Big Data pipelines, ETL \& ELT processes, Online Analytical Processing (OLAP) database management, data warehouse management, metadata management, data governance, dashboard creation \& maintenance, forecasting \& time-series analysis, Regression analysis, Classification, Bayesian Machine Learning models.
 
 \vspace{5pt}
 
@@ -126,8 +130,8 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-  \begin{flushleft}{\bf \href{https://www.mtc.com.na/}{MTC Namibia}}\end{flushleft}
-    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+  \begin{flushleft}{\bf MTC Namibia}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek}\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -136,20 +140,21 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Reporting for business goals such as market analysis, services consumption trends & pricing models
+* Maintaining reference data, metadata and data governance of the entrprise data warehouse.
+* Reporting for business goals such as market analysis, services consumption trends & pricing models.
 * Analysis of Big Data data sets using SQL, Python, R and Analytical databases.
 * Develop & maintain Extract Transform & Load (ETL) pipelines for data availability.
 * Data acquisition, data manipulation & modelling for data exploration & visualization.
 * Design & implementation of data pipelines to facilitate reporting.
-* Reporting via dynamic dashboards with PowerBI, Excel and R to display Key Performance Indicators.
+* Reporting via dynamic dashboards with PowerBI, SQL and R to display Key Performance Indicators.
 
 \vspace{5pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.mtc.com.na/}{MTC Namibia}}\end{flushleft}
-    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+    \begin{flushleft}{\bf MTC Namibia}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek}\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -168,8 +173,8 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 <!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.mtc.com.na/}{MTC Namibia}}\end{flushleft}
-    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+    \begin{flushleft}{\bf MTC Namibia}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek}\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -187,8 +192,8 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 <!-- EXPERIENCE : 4TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://surveywarehouse.com.na/}{Survey Warehouse}}\end{flushleft}
-    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+    \begin{flushleft}{\bf Survey Warehouse}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek}\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -206,8 +211,8 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 <!-- EXPERIENCE : 5TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://surveywarehouse.com.na/}{Survey Warehouse}}\end{flushleft}
-    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+    \begin{flushleft}{\bf Survey Warehouse}\end{flushleft}
+    \begin{flushright}\textsc{Windhoek}\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -226,7 +231,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textbf{Media Tenor Namibia}\end{flushleft}
-    \begin{flushright}\textsc{Windhoek, Namibia}\end{flushright}
+    \begin{flushright}\textsc{Windhoek}\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -248,8 +253,32 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
+    \begin{flushleft}\textit{Development of KPI Dashboard for Executive Management}\end{flushleft}
+    \begin{flushright}Jan - May 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Led a project to develop and standardize Key Perfromance Indicators for use by Executive Management in a dashboard to gain a holistic view of the organization's operations and functions. KPI's were documented end-to-end with descriptions, calculation formulas, key assumptions as well as data source diagrams.    
+
+\vspace{5pt}
+
+<!-- PROJECTS : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Billing System Data Verification Platform}\end{flushleft}
+    \begin{flushright}Oct 2024 - Feb 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Designed and implemented a data verification platform for use in a complex billing system migration project. The platform mirrored the data ingestion of the billing system into the data warehouse, with 1:1 SQL schemas and tables. This enabled the department to verify and audit all migrated billing data streams as accurate and reliable. 
+
+\vspace{5pt}
+
+<!-- PROJECTS : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
     \begin{flushleft}\textit{IMSI Verifcation Application Programming Interface}\end{flushleft}
-    \begin{flushright}November 2023\end{flushright}
+    \begin{flushright}Nov 2023\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
@@ -257,11 +286,11 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 
 \vspace{5pt}
 
-<!-- PROJECTS : 2nd BULLET -->
+<!-- PROJECTS : 4TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textit{USSD Pricing Model with Linear Regression Forecasting}\end{flushleft}
-    \begin{flushright}October 2023\end{flushright}
+    \begin{flushright}Oct 2023\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
@@ -269,7 +298,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 
 \vspace{5pt}
 
-<!-- PROJECTS : 3RD BULLET -->
+<!-- PROJECTS : 5TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textit{COVID‑19 Tweet Sentiment Analysis with Web App}\end{flushleft}
@@ -278,11 +307,11 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \vspace{-0.17cm}
 \end{large}
 * As part of a multi-disciplinary team, implemented a Sentiment Analysis machine learning model based on 40 million COVID-19 tweets to help inform public sentiment regarding governmental agencies health messaging on COVID-19 topics. Developed using Ensemble methods and corrected with Logistic Regression, the model achieved an accuracy of 79%. It was deployed using a web application 
-  that allowed users to enter a message, and adjust their messaging to a more positive sentiment score. This project won the $1^{st}$ Place prize at the 2022 DARA/NUST Hackathon.
+  that allowed users to enter a message, and adjust their messaging to a more positive sentiment score. This project won the $1^{st}$ Place prize at the \href{https://hack4dev.org/pe-nusthack-2022/}{Development in Africa with Radio Astronomy (DARA) - Namibia University of Science and Technology (NUST) 2022 Hackathon}.
 
 \vspace{5pt}
 
-<!-- PROJECTS : 4TH BULLET -->
+<!-- PROJECTS : 6TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Fraud Detection System}\end{flushleft}
@@ -294,10 +323,10 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 
 \vspace{5pt}
 
-<!-- PROJECTS : 5TH BULLET -->
+<!-- PROJECTS : 7TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Automation of Marketing Reports in Python}\end{flushleft}
+    \begin{flushleft}\textit{Automation of Marketing Reports}\end{flushleft}
     \begin{flushright}2016\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -305,6 +334,8 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 * Automated various product-focused Marketing reports in Python. Python was used for the analysis, while Linux scripting was used to automate file transfer and archiving. This automation reduced reporting time from 4 hours to 10 minutes.
 
 \vspace{5pt}
+
+<!-- \newpage -->
 
 <!-- HONOURs : 1ST BULLET -->
 \setlength{\columnsep}{-15.5cm}
@@ -316,7 +347,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}
       $1^{st}$ Place Winner, COVID‑19 Tweet Sentiment Analysis with Web App
-      \textit{NUST/DARA Data Science 2022 Hackathon}
+      \href{https://hack4dev.org/pe-nusthack-2022/}{\textit{DARA-NUST 2022 Hackathon}}
       \end{flushleft}
     \begin{flushright}2022\end{flushright}
   \end{multicols}
@@ -330,7 +361,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}
       Count on Me Certificate of Excellence for Fraud Detection System
-      \textit{MTC Namibia}
+      \href{https://www.mtc.com.na/}{\textit{MTC Namibia}}
     \end{flushleft}
     \begin{flushright}2018\end{flushright}
   \end{multicols}
@@ -344,7 +375,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}
       Chief Technology Officer’s Award for Outstanding Service
-      \textit{MTC Namibia}
+      \href{https://www.mtc.com.na/}{\textit{MTC Namibia}}
     \end{flushleft}
     \begin{flushright}2013\end{flushright}
   \end{multicols}
@@ -358,7 +389,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}
       Best $1^{st}$ Year Student (Overall)
-      \textit{Namibia University of Science \& Technology}
+      \href{https://www.nust.na/}{\textit{Namibia University of Science \& Technology}}
     \end{flushleft}
     \begin{flushright}2015\end{flushright}
   \end{multicols}
@@ -372,7 +403,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}
       Best $1^{st}$ Year Student (Dept. of Informatics)
-      \textit{Namibia University of Science \& Technology}
+      \href{https://www.nust.na/}{\textit{Namibia University of Science \& Technology}}
     \end{flushleft}
     \begin{flushright}2015\end{flushright}
   \end{multicols}
@@ -381,19 +412,19 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 
 \vspace{7pt}
 
-<!-- CERTIFICATION : 1ST BULLET -->
 \setlength{\columnsep}{-15.5cm}
 
+<!-- CERTIFICATION : 1ST BULLET -->
 \begin{large}
 {\bf CERTIFICATION}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}
-      NAMS/ISO/IEC 27001:2021 Development \& Implementation of Information Security Framework
-      \textit{Namibia Standards Institute}
+      Certified Data Management Professional (CDMP)
+      \href{https://cdmp.info/}{\textit{DAMA International}}
     \end{flushleft}
-    \begin{flushright}2022\end{flushright}
+    \begin{flushright}Expected Aug 2025\end{flushright}
   \end{multicols}
 \end{large}
 
@@ -401,10 +432,10 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      Dialogic BorderNet Session Border Controller Certified
-      \textit{Dialogic Corp.}
+      NAMS/ISO/IEC 27001:2021 Development \& Implementation of Information Security Framework
+      \href{https://www.nsi.com.na/}{\textit{Namibia Standards Institute}}
     \end{flushleft}
-    \begin{flushright}2020\end{flushright}
+    \begin{flushright}2022\end{flushright}
   \end{multicols}
 \end{large}
 
@@ -412,10 +443,10 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      CS Core Telecommunications Advanced
-      \textit{Huawei}
+      Dialogic BorderNet Session Border Controller Certified
+      \href{https://www.dialogic.com/sbc}{\textit{Dialogic Corp.}}
     \end{flushleft}
-    \begin{flushright}Aug 2017\end{flushright}
+    \begin{flushright}2020\end{flushright}
   \end{multicols}
 \end{large}
 
@@ -423,10 +454,10 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
-      CS Core Telecommunications Fundamentals
-      \textit{Huawei}
+      CS Core Telecommunications Advanced
+      \href{https://e.huawei.com/en/talent/cert/#/careerCert}{\textit{Huawei}}
     \end{flushleft}
-    \begin{flushright}May 2017\end{flushright}
+    \begin{flushright}Aug 2017\end{flushright}
   \end{multicols}
 \end{large}
 
@@ -434,8 +465,19 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
+      CS Core Telecommunications Fundamentals
+      \href{https://e.huawei.com/en/talent/cert/#/careerCert}{\textit{Huawei}}
+    \end{flushleft}
+    \begin{flushright}May 2017\end{flushright}
+  \end{multicols}
+\end{large}
+
+<!-- CERTIFICATION : 6TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
       A+ Certification
-      \textit{CompTIA}
+      \href{https://www.comptia.org/}{\textit{CompTIA}}
     \end{flushleft}
     \begin{flushright}2006\end{flushright}
   \end{multicols}
@@ -443,23 +485,34 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 
 \vspace{7pt}
 
-<!-- COMMITEES : 1ST BULLET -->
-\setlength{\columnsep}{-15.5cm}
 
+\setlength{\columnsep}{-15.5cm}
+<!-- COMMITEES : 1ST BULLET -->
 \begin{large}
 {\bf COMMITTEES, MEMBERSHIPS \& OTHER ACTIVITIES}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}
+      Digital Innovations for Social Good Project Team Member
+      \href{https://www.tmforum.org/}{\textit{TM Forum}}
+      \end{flushleft}
+    \begin{flushright}2025\end{flushright}
+  \end{multicols}
+\end{large}
+
+<!-- COMMITEES : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
       Data Governance Project Team Member
-      \textit{TM Forum}
+      \href{https://www.tmforum.org/}{\textit{TM Forum}}
       \end{flushleft}
     \begin{flushright}2023\end{flushright}
   \end{multicols}
 \end{large}
 
-<!-- COMMITEES : 2ND BULLET -->
+<!-- COMMITEES : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
@@ -470,7 +523,7 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \end{multicols}
 \end{large}
 
-<!-- COMMITEES : 3RD BULLET -->
+<!-- COMMITEES : 4TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}
@@ -485,10 +538,53 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
 \vspace{7pt}
 
 <!-- REFERENCES : 1ST BULLET -->
+<!-- \begin{large}
+{\bf REFERENCES}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Gavilan Rieth}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textsc{Manager: Projects}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{MTC Namibia}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\href{mailto:grieth@mtc.com.na}{gdeklerk@mtc.com.na}\end{flushleft}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}{+264 81 100 2189}\end{flushleft}
+  \end{multicols}
+\end{large} -->
+
+\setlength{\columnsep}{1cm}
+
 \begin{large}
 {\bf REFERENCES}
   \vspace{3pt}
   \hrule
+  \vspace{5pt}
+  \begin{multicols}{2}
+    \textbf{Gavilan Rieth}\\
+    \textsc{Manager: Projects}\\
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \href{https://www.mtc.com.na/}{\textit{MTC Namibia}}\\
+    {+264 61 280 2000}
+  \end{multicols}
+\end{large}
+
+\vspace{12pt}
+
+<!-- REFERENCES : 2ND BULLET -->
+<!-- \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textbf{Gene de Klerk}\end{flushleft}
   \end{multicols}
@@ -508,12 +604,23 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}{+264 81 100 2061}\end{flushleft}
   \end{multicols}
+\end{large} -->
+\begin{large}
+  \begin{multicols}{2}
+    \textbf{Gene de Klerk}\\
+    \textsc{Coordinator: Value Added Services}\\
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \href{https://www.mtc.com.na/}{\textit{MTC Namibia}}\\
+    {+264 61 280 2000}
+  \end{multicols}
 \end{large}
 
-\vspace{5pt}
+\vspace{12pt}
 
-<!-- REFERENCES : 2ND BULLET -->
-\begin{large}
+<!-- REFERENCES : 3RD BULLET -->
+<!-- \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textbf{Cornelius Louw}\end{flushleft}
   \end{multicols}
@@ -533,12 +640,23 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}{+264 81 100 2055}\end{flushleft}
   \end{multicols}
+\end{large} -->
+\begin{large}
+  \begin{multicols}{2}
+    \textbf{Cornelius Louw}\\
+    \textsc{Manager: Network Mgmt \& Technical Quality}\\
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \href{https://www.mtc.com.na/}{\textit{MTC Namibia}}\\
+    {+264 61 280 2000}
+  \end{multicols}
 \end{large}
 
-\vspace{5pt}
+\vspace{12pt}
 
-<!-- REFERENCES : 3RD BULLET -->
-\begin{large}
+<!-- REFERENCES : 4TH BULLET -->
+<!-- \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textbf{Natasja Beyleveld}\end{flushleft}
   \end{multicols}
@@ -558,12 +676,24 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}{+264 81 319 5819}\end{flushleft}
   \end{multicols}
+\end{large} -->
+
+\begin{large}
+  \begin{multicols}{2}
+    \textbf{Natasja Beyleveld}\\
+    \textsc{Managing Director}\\
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \href{https://na.linkedin.com/company/namedia-pty-ltd}{\textit{NaMedia Namibia Media Monitoring}}\\
+    {+264 81 319 5819}
+  \end{multicols}
 \end{large}
 
-\vspace{5pt}
+<!-- \vspace{3pt} -->
 
 <!-- REFERENCES : 4TH BULLET -->
-\begin{large}
+<!-- \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}\textbf{Fideria Ndapopile}\end{flushleft}
   \end{multicols}
@@ -583,4 +713,4 @@ abilities. I am a creative problem solver and have a team‑oriented attitude. I
   \begin{multicols}{2}
     \begin{flushleft}{+264 81 100 2898}\end{flushleft}
   \end{multicols}
-\end{large}
+\end{large} -->
