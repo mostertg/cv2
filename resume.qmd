@@ -17,6 +17,7 @@ format:
         \usepackage{lipsum}
         \usepackage{hyperref}
         \usepackage{libertine}
+        \usepackage{pdfpages}
         \pagestyle{empty}
         \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
         \setlength{\columnsep}{3em}
@@ -714,3 +715,17 @@ I value honesty and integrity and welcome positive criticism.
     \begin{flushleft}{+264 81 100 2898}\end{flushleft}
   \end{multicols}
 \end{large} -->
+
+\newpage
+\includepdf[pages=-]{assets/02_AcademicTscript.pdf}
+\includepdf{assets/03_Cert.BigData-NUST.pdf}
+\includepdf{assets/04_Degree.BInf-NUST.pdf}
+\includepdf{assets/05_Degree.BA-UNISA.pdf}
+\includepdf{assets/06_Cert.ISO27001-NSI.pdf}
+\includepdf{assets/10_Cert.DARA-NUST.pdf}
+\includepdf{assets/11_Cert.Aplus-CompTIA.pdf}
+\includepdf{assets/12_IDdoc.pdf}
+\includepdf{assets/13_HIGCSE.pdf}
+\includepdf{assets/14_IGCSE.pdf}
+\includepdf{assets/16_MeritAward-NUST.pdf}
+\includepdf{assets/17_PerfAward-NUST.pdf}
